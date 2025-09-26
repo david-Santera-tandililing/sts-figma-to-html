@@ -8,76 +8,38 @@
 }
 
 .desktop .group {
-  width: 1455px;
-  height: 1023px;
-  margin-left: -11px;
+  margin-top: 196px;
+  width: 1336px;
+  height: 828px;
+  margin-left: -44px;
   position: relative;
 }
 
-.desktop .div {
+.desktop .image-removebg {
   position: absolute;
   top: 0;
-  left: 0;
-  width: 1451px;
-  height: 651px;
-  transform: rotate(-180deg);
+  left: 469px;
+  width: 607px;
+  height: 615px;
+  aspect-ratio: 0.99;
+  object-fit: cover;
+  opacity: 25%;
 }
 
 .desktop .rectangle {
   position: absolute;
-  top: 281px;
-  left: 0;
-  width: 1451px;
-  height: 370px;
-  background-color: #ffb640;
-}
-
-.desktop .rectangle-2 {
-  position: absolute;
-  top: 100px;
-  left: 0;
-  width: 1451px;
-  height: 200px;
-  background-color: #ff8640;
-}
-
-.desktop .rectangle-3 {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 1451px;
-  height: 100px;
-  background-color: #e03f3f;
-}
-
-.desktop .text-wrapper {
-  position: absolute;
-  top: 50px;
-  left: 165px;
-  width: 825px;
-  -webkit-text-stroke: 1px #000000;
-  font-family: "Kotta One-Regular", Helvetica;
-  font-weight: 400;
-  color: #673e39;
-  font-size: 76px;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.desktop .rectangle-4 {
-  position: absolute;
-  top: 210px;
-  left: 52px;
+  top: 110px;
+  left: 250px;
   width: 1029px;
   height: 412px;
   background-color: #c12929;
   border-radius: 50px;
 }
 
-.desktop .manchester-united {
+.desktop .pada-musim {
   position: absolute;
-  top: 235px;
-  left: 58px;
+  top: 100px;
+  left: 280px;
   width: 1029px;
   font-family: "Actor-Regular", Helvetica;
   font-weight: 400;
@@ -87,7 +49,7 @@
   line-height: normal;
 }
 
-.desktop .span {
+.desktop .text-wrapper {
   font-family: "Actor-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
@@ -95,18 +57,16 @@
   letter-spacing: 0;
 }
 
-.desktop .text-wrapper-2 {
+.desktop .span {
   text-decoration: underline;
 }
 
-
-
-.desktop .image-removebg {
+.desktop .img {
   position: absolute;
-  top: 372px;
-  left: 1068px;
-  width: 383px;
-  height: 652px;
-  aspect-ratio: 0.59;
+  top: 328px;
+  left: 44px;
+  width: 470px;
+  height: 500px;
+  aspect-ratio: 1;
   object-fit: cover;
 }
